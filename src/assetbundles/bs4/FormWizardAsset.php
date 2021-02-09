@@ -1,7 +1,7 @@
 <?php
-namespace buttflattery\formwizard\assetbundles\bs4;
+namespace kadotafig\formwizard\assetbundles\bs4;
 
-use buttflattery\formwizard\assetbundles\bs4\ThemeBase as BaseTheme;
+use kadotafig\formwizard\assetbundles\bs4\ThemeBase as BaseTheme;
 
 class FormWizardAsset extends BaseTheme
 {

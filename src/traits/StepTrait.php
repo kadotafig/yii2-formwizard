@@ -1,11 +1,11 @@
 <?php
-namespace buttflattery\formwizard\traits;
+namespace kadotafig\formwizard\traits;
 
 use yii\base\Model;
 use yii\helpers\Html;
 use yii\web\JsExpression;
 use yii\helpers\ArrayHelper;
-use buttflattery\formwizard\FormWizard;
+use kadotafig\formwizard\FormWizard;
 
 trait StepTrait
 {

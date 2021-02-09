@@ -1,14 +1,14 @@
 <?php
 //@codingStandardsIgnoreStart
-namespace buttflattery\formwizard\step;
+namespace kadotafig\formwizard\step;
 
 use Yii;
 use yii\base\Model;
 use yii\helpers\Html;
 use yii\web\JsExpression;
 use yii\helpers\ArrayHelper;
-use buttflattery\formwizard\FormWizard;
-use buttflattery\formwizard\traits\StepTrait;
+use kadotafig\formwizard\FormWizard;
+use kadotafig\formwizard\traits\StepTrait;
 
 class Tabular
 {

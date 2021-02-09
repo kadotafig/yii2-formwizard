@@ -39,13 +39,13 @@ The extension detects if you are using the `yiisoft/yii2-bootstrap` or `yiisoft/
 use composer to install the extension
 
 ```bash
-php composer.phar require  buttflattery/yii2-formwizard "@dev"
+php composer.phar require  kadotafig/yii2-formwizard "@dev"
 ```
 
 or add into the `composer.json` file under `require` section
 
 ```json
-"buttflattery/yii2-formwizard":"@dev"
+"kadotafig/yii2-formwizard":"@dev"
 ```
 
 ### Demos for all the Features & Themes

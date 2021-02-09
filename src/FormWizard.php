@@ -1,6 +1,6 @@
 <?php
 /**
- * PHP VERSION >=5.6
+ * PHP VERSION >=7.4
  *
  * @category  Yii2-Plugin
  * @package   Yii2-formwizard
@@ -9,7 +9,7 @@
  * @license   https://github.com/buttflattery/yii2-formwizard/blob/master/LICENSE BSD License 3.01
  * @link      https://github.com/buttflattery/yii2-formwizard
  */
-namespace buttflattery\formwizard;
+namespace kadotafig\formwizard;
 
 use Yii;
 use yii\web\View;
@@ -18,13 +18,13 @@ use yii\helpers\Html;
 use yii\helpers\Json;
 use yii\web\JsExpression;
 use yii\helpers\ArrayHelper;
-use buttflattery\formwizard\step\Generator;
+use kadotafig\formwizard\step\Generator;
 use yii\bootstrap\ActiveForm as BS3ActiveForm;
-use buttflattery\formwizard\traits\WizardTrait;
+use kadotafig\formwizard\traits\WizardTrait;
 use yii\bootstrap4\ActiveForm as BS4ActiveForm;
 use yii\base\InvalidArgumentException as ArgException;
-use buttflattery\formwizard\assetbundles\bs3\FormWizardAsset as Bs3Assets;
-use buttflattery\formwizard\assetbundles\bs4\FormWizardAsset as Bs4Assets;
+use kadotafig\formwizard\assetbundles\bs3\FormWizardAsset as Bs3Assets;
+use kadotafig\formwizard\assetbundles\bs4\FormWizardAsset as Bs4Assets;
 
 /**
  * A Yii2 plugin used for creating stepped form or form wizard using

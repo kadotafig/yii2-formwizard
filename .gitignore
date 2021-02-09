@@ -3,3 +3,5 @@ package-lock.json
 _config.yml
 .vscode
 *.sh
+.DS_Store
+._.DS_Store

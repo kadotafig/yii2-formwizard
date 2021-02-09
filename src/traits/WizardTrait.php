@@ -2,7 +2,7 @@
 /**
  * Wizard trait
  */
-namespace buttflattery\formwizard\traits;
+namespace kadotafig\formwizard\traits;
 
 use yii\base\InvalidArgumentException as ArgException;
 

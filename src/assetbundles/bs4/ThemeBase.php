@@ -1,5 +1,5 @@
 <?php
-namespace buttflattery\formwizard\assetbundles\bs4;
+namespace kadotafig\formwizard\assetbundles\bs4;
 
 use yii\web\AssetBundle;
 

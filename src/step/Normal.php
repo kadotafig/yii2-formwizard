@@ -1,10 +1,10 @@
 <?php
-namespace buttflattery\formwizard\step;
+namespace kadotafig\formwizard\step;
 
 use Yii;
 use yii\helpers\Html;
 use yii\helpers\ArrayHelper;
-use buttflattery\formwizard\traits\StepTrait;
+use kadotafig\formwizard\traits\StepTrait;
 
 class Normal
 {

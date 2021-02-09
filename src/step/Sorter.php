@@ -1,5 +1,5 @@
 <?php
-namespace buttflattery\formwizard\step;
+namespace kadotafig\formwizard\step;
 
 use yii\base\Model;
 use yii\helpers\ArrayHelper;

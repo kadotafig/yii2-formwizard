@@ -1,6 +1,6 @@
 <?php
 //@codingStandardsIgnoreStart
-namespace buttflattery\formwizard\step;
+namespace kadotafig\formwizard\step;
 
 use Yii;
 
