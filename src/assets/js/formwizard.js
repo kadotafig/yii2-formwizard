@@ -123,7 +123,7 @@ $.formwizard = {
                         }
                         $.formwizard.formNavigation.next(e.target);
                     },
-                    200
+                    2000
                 );
 
             });
